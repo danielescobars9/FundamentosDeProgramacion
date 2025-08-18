@@ -19,18 +19,18 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
   - Funciones 2.0
   - Programación orientada a objetos en Python
   - Iterable, iterator, itertools
-  - Taller 1: ejercicios de algoritmia
+  - Taller 1: ejercicios de algoritmia OR simulación Objetos
 
 ### Semana 2  
 **SESIÓN 03** (4hrs):
   - Instalación, ambientes, terminales, paquetes, módulos y scripts
   - Demostración de configuración de entorno de trabajo
-  - Taller 3: construyendo una librería de álgebra lineal 
+  - Taller 2: construyendo una librería de álgebra lineal 
   
 **SESIÓN 04** (6hrs):
   - Lectura y escritura de archivos
   - Concurrencia y paralelismo
-  - Taller 4: descarga concurrente de imágenes
+  - Taller 2.5: descarga concurrente de imágenes
 
 ### Semana 3  
 **SESIÓN 05** (4hrs):
@@ -41,9 +41,13 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
 
 **SESIÓN 06** (6hrs):
   - Introducción a Matplotlib
-  - Taller 5: Análisis exploratorio de un dataset
+  - Taller 3: Análisis exploratorio de un dataset
 
 ## Criterios de evaluación
+
+- Taller 1 = 30% [Ejercicios de Algoritmia] [Simulación mediante Objetos]
+- Taller 2 = 30% [Descarga de archivos concurrente] [Libreria de Algebra Lineal]
+- Taller 3 = 40% [Analisis Exploratorio de Datos]
 
 El porcentaje de evaluación de cada taller se encuentra en la lista y está dado deacuerdo al nivel de dificultad de cada uno. 
 
@@ -51,7 +55,7 @@ En los talleres únicamente se revisará que el código cumpla su propósito, lo
 
 Finalmente, se tendrán bonos adicionales para agregar en cualquier evaluación:
 
-- Bonos por por cada contribución al material del curso. El aporte debe proponerse como un *pull request* intentando. Este bono tendrá un valor de un 1% adicional en la evaluación final del curso. Los contribuciones pueden ser errores o elementos sin explicar que podrían ser útiles. También pueden ser ejemplos a agregar al material que hayan surgido durante las sesiones.
+- Bonos por por cada contribución al material del curso. El aporte debe proponerse como un *pull request* intentando. Este bono tendrá un valor de un 20% adicional en la evaluación final del taller. Los contribuciones pueden ser errores o elementos sin explicar que podrían ser útiles. También pueden ser ejemplos a agregar al material que hayan surgido durante las sesiones.
 - Bonos por soluciones a los talleres marcados como opcionales. Cada taller opcional tendrá un valor máximo del 5% del curso. 
 - Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *easy* tendrá un valor del 8% en la evaluación final del curso.
 - Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *intermediate*  tendrá un valor del 16% en la evaluación final del curso.
@@ -59,6 +63,7 @@ Finalmente, se tendrán bonos adicionales para agregar en cualquier evaluación:
 
 ## Entregas
 
-Los talleres tendrán espacio suficiente para resolverse en las sesiones de clase, pero se darán plazos extra para adaptarnos a posibles imprevistos e inconvenientes por parte de los estudiantes. Los talleres podrán ser entregados hasta 2 días después de trabajados en clase. Además, la formulación de los talleres estará disponible antes del inicio de clase, esperando que esto de especial flexibilidad en el manejo del tiempo de los estudiantes.
+Los talleres tendrán espacio suficiente para resolverse en las sesiones de clase, pero se darán plazos extra para adaptarnos a posibles imprevistos e inconvenientes por parte de los estudiantes. Los talleres podrán ser entregados hasta el miercoles inmediatamente posterior a la clase.
+
 
 
