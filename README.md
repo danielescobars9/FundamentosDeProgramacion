@@ -2,6 +2,8 @@
 
 ## Descripción del curso
 
+meet clase 4:
+meet.google.com/zep-ondc-gsj
 
 En este curso conocerás el ecosistema de desarrollo de Python enfocado a ciencia de datos. Se realizarán talleres en cada sesión para poner en práctica lo explicado por el profesor y se realizarán 4 proyectos que simulan actividades comunes para un científico de datos o un ingeniero de Machine Learning.
 
