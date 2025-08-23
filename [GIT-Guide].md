@@ -131,7 +131,6 @@ GitHub es una plataforma basada en la web que utiliza Git para alojar repositori
 
 ---
 
-¿Quieres que agregue ejemplos visuales, imágenes o flujos avanzados como manejo de conflictos, rebase, stash, etc.?
 # Guía Explícita para el Uso de Git y GitHub
 
 ## 1. Instalación de Git

@@ -2,9 +2,6 @@
 
 ## Descripción del curso
 
-https://us05web.zoom.us/j/81443990835?pwd=OXSIblk9HKyHGtT7zkrCkBorG7z2DV.1
-
-https://drive.google.com/drive/folders/1z42T8ETi67FAytK5rbuo33cWKae_cM9T?usp=sharing
 
 En este curso conocerás el ecosistema de desarrollo de Python enfocado a ciencia de datos. Se realizarán talleres en cada sesión para poner en práctica lo explicado por el profesor y se realizarán 4 proyectos que simulan actividades comunes para un científico de datos o un ingeniero de Machine Learning.
 
@@ -69,5 +66,8 @@ Finalmente, se tendrán bonos adicionales para agregar en cualquier evaluación:
 
 Los talleres tendrán espacio suficiente para resolverse en las sesiones de clase, pero se darán plazos extra para adaptarnos a posibles imprevistos e inconvenientes por parte de los estudiantes. Los talleres podrán ser entregados hasta el miercoles inmediatamente posterior a la clase.
 
+## Google Colab Folder 
 
+Intro y prueba GPUs:
+https://drive.google.com/drive/folders/1z42T8ETi67FAytK5rbuo33cWKae_cM9T?usp=sharing
 
