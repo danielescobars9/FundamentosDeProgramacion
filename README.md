@@ -28,12 +28,12 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
 **SESIÓN 03** (4hrs):
   - Instalación, ambientes, terminales, paquetes, módulos y scripts
   - Demostración de configuración de entorno de trabajo
-  - Taller 2: construyendo una librería de álgebra lineal 
+  - Taller 2.1: construyendo una librería de álgebra lineal (20%)
   
 **SESIÓN 04** (6hrs):
   - Lectura y escritura de archivos
   - Concurrencia y paralelismo
-  - Taller 2.5: descarga concurrente de archivos
+  - Taller 2.2: descarga concurrente de archivos (10%)
 
 ### Semana 3  
 **SESIÓN 05** (4hrs):
@@ -50,6 +50,8 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
 
 - Taller 1 = 30% [Ejercicios de Algoritmia] [Simulación mediante Objetos]
 - Taller 2 = 30% [Descarga de archivos concurrente] [Libreria de Algebra Lineal]
+  - Taller 2.1 = 80% del taller 2
+  - Taller 2.2 = 20% del taller 2
 - Taller 3 = 40% [Analisis Exploratorio de Datos]
 
 El porcentaje de evaluación de cada taller se encuentra en la lista y está dado deacuerdo al nivel de dificultad de cada uno. 
@@ -68,8 +70,14 @@ Finalmente, se tendrán bonos adicionales para agregar en cualquier evaluación:
 
 Los talleres tendrán espacio suficiente para resolverse en las sesiones de clase, pero se darán plazos extra para adaptarnos a posibles imprevistos e inconvenientes por parte de los estudiantes. Los talleres podrán ser entregados hasta el miercoles inmediatamente posterior a la clase.
 
+## Aserorias
+- Martes: 7:30pm a 8:15pm
+- Miercoles: 8:00am a 8:45am
+
 ## Google Colab Folder 
 
 Intro y prueba GPUs:
 https://drive.google.com/drive/folders/1z42T8ETi67FAytK5rbuo33cWKae_cM9T?usp=sharing
 
+## Enlaces de Interés
+https://machinelearning.apple.com/research/illusion-of-thinking

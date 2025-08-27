@@ -9,15 +9,17 @@ Revisar el notebook 09 y la carpeta local/lib para el resto de los contenidos!
 La librería es bastante extensa y la evaluación dependerá de qué tanto logres implementar. Estos son los criterios:
 
 - Implementación de la clase `Vector`: 30%
+  - Implementación de todos los metodos internos de .dot, .cross: 5%
 - Implementación de las funciones en la ruta `lac.vector`: 20%
 - Implementación de la clase `Matrix`: 
   - propiedades `num_columns`, `num_rows` y `shape`: 5%
   - propiedades `T`, `trace`: 10%
   - propiedades `determinant`: 15%
-  - todas las propiedaes que empiezan con `__`(por ejemplo, `__add__`): 3%
+  - todas las propiedaes que empiezan con `__`(por ejemplo, `__add__`): 10%
+  - todas las funciones internas que operan una matrix: 5%
 - Implementación de las funciones en la ruta `lac.matrix`:
   - `scale`, `add`, `subtract`: 5%
   - `vector_multiply`: 5%
-  - `matrix_multiply`: 7%
+  - `matrix_multiply`: 10%
 
 Observa que no hace falta que implementes todas las propiedades y funciones para tener un 100% en la evaluación, las otras se dejan ahí como ejercicios sugeridos para fortalecer tu proceso de aprendizaje.

@@ -14,7 +14,7 @@ def test_vector_basico():
     print("Probando clase Vector...")
     
     try:
-        from linearAlg import Vector
+        from local.lib.linearAlg import Vector
         
         # Test constructor
         v1 = Vector([1, 2, 3])
@@ -47,7 +47,7 @@ def test_matrix_basico():
     print("\nProbando clase Matrix...")
     
     try:
-        from linearAlg import Matrix
+        from local.lib.linearAlg import Matrix
         
         # Test constructor
         m1 = Matrix([[1, 2], [3, 4]])
@@ -83,7 +83,7 @@ def test_funciones_vector():
     print("\nProbando funciones de vector...")
     
     try:
-        from linearAlg import Vector, dot_product, magnitude, normalize
+        from local.lib.linearAlg import Vector, dot_product, magnitude, normalize
         
         v1 = Vector([3, 4])
         v2 = Vector([1, 0])
@@ -118,7 +118,7 @@ def test_funciones_matrix():
     print("\nProbando funciones de matriz...")
     
     try:
-        from linearAlg import Matrix, Vector, add, scale, vector_multiply
+        from local.lib.linearAlg import Matrix, Vector, add, scale, vector_multiply
         
         m1 = Matrix([[1, 2], [3, 4]])
         m2 = Matrix([[5, 6], [7, 8]])
@@ -154,7 +154,7 @@ def test_matrices_especiales():
     print("\nProbando matrices especiales...")
     
     try:
-        from linearAlg import identity_matrix, zeros_matrix, ones_matrix
+        from local.lib.linearAlg import identity_matrix, zeros_matrix, ones_matrix
         
         # Test matriz identidad
         try:
