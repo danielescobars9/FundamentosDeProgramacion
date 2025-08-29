@@ -2,7 +2,7 @@
 
 En este taller pondrás a prueba lo que aprendiste sobre concurrencia y manipulación de archivos. Tu tarea será descargar un conjunto de archivos utilizando las 3 formas de concurrencia disponibles en Python. 
 
-Se deberá descargar un conjunto de archivos que permitan comparar la duración total del proceso en las diferentes.
+Se deberá descargar un conjunto de archivos que permitan comparar la duración total del proceso en las diferentes modalidades de operación.
 
 ### Imágenes de Unsplash
 ```python
