@@ -27,3 +27,5 @@ Una vez más, revisaremos el libro [Python Data Science Handbook](https://jakevd
 * [HoloViews](http://holoviews.org/)
 * [VisPy](http://vispy.org/gallery.html)
 * [Altair](https://altair-viz.github.io/)
+* [Plotly](https://plotly.com/python/)
+* [Seaborn](https://seaborn.pydata.org/)
